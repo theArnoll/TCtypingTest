@@ -146,5 +146,6 @@ r / 再 / 在: 再來一次   s / 設: 進入設置        q / 離: 離開
 - [ ] Add longer test strings
 - [ ] Add more detailed length options
 - [ ] At least try dealing with trailing Zhuyins and Pinyins in the input
+- [ ] Save results to CSV file
 
 ## AI usage
